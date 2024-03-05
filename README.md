@@ -30,7 +30,7 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https://github.com/AlJh4cker/Crasher.py
+git clone https://github.com/AlJh4cker/Crasher
 ```
 ```
 ls 
