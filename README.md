@@ -39,7 +39,7 @@ ls
 cd Crasher
 ```
 ```
-Python3 Crasher.py
+python3 Crasher.py
 ```
 
 
